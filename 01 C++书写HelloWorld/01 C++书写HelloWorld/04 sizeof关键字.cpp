@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int main4() {
 
 	cout << "short 类型所占内存空间为： " << sizeof(short) << endl;
 
