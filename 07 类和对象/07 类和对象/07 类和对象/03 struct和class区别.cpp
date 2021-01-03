@@ -13,7 +13,7 @@ struct C2
 	int m_A;  //默认是公共权限
 };
 
-int main3() {
+int main0103() {
 
 	C1 c1;
 //	c1.m_A = 10; //错误，访问权限是私有

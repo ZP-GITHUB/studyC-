@@ -19,6 +19,9 @@
     <Filter Include="源文件\02 对象的初始化和清理">
       <UniqueIdentifier>{e36ac7e0-397d-4e1b-a855-8e16b9d3f88e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\03 C++对象模型和this指针">
+      <UniqueIdentifier>{22faadb2-ef38-41ab-aa6b-cb02fdb106dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02 StudentDemo.cpp">
@@ -56,6 +59,18 @@
     </ClCompile>
     <ClCompile Include="08 静态成员变量.cpp">
       <Filter>源文件\02 对象的初始化和清理</Filter>
+    </ClCompile>
+    <ClCompile Include="01 成员变量和成员函数分开存储.cpp">
+      <Filter>源文件\03 C++对象模型和this指针</Filter>
+    </ClCompile>
+    <ClCompile Include="02 this指针概念.cpp">
+      <Filter>源文件\03 C++对象模型和this指针</Filter>
+    </ClCompile>
+    <ClCompile Include="03 空指针访问成员函数.cpp">
+      <Filter>源文件\03 C++对象模型和this指针</Filter>
+    </ClCompile>
+    <ClCompile Include="04 const修饰成员函数.cpp">
+      <Filter>源文件\03 C++对象模型和this指针</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

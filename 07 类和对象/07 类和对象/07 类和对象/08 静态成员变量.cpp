@@ -40,7 +40,7 @@ void test11()
 	//cout << "m_B = " << Person::m_B << endl; //私有权限访问不到
 }
 
-int main() {
+int main0208() {
 
 	test11();
 

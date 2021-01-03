@@ -41,7 +41,7 @@ private:
 };
 
 
-int main4() {
+int main0104() {
 
 	Person p;
 	//ĞÕÃûÉèÖÃ

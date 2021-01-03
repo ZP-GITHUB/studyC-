@@ -19,7 +19,7 @@ public:
 	int m_id;
 };
 
-int main2() {
+int main0102() {
 
 	Student stu;
 	stu.setName("µÂÂêÎ÷ÑÇ");
