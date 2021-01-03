@@ -53,7 +53,7 @@ void test014() {
 
 }
 
-int main() {
+int main0304() {
 
 	test014();
 

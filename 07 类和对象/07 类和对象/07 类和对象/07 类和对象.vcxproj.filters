@@ -22,6 +22,9 @@
     <Filter Include="源文件\03 C++对象模型和this指针">
       <UniqueIdentifier>{22faadb2-ef38-41ab-aa6b-cb02fdb106dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04 友元">
+      <UniqueIdentifier>{a1e54a2d-a459-4dbd-82f7-1e23c99d9a9e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02 StudentDemo.cpp">
@@ -71,6 +74,15 @@
     </ClCompile>
     <ClCompile Include="04 const修饰成员函数.cpp">
       <Filter>源文件\03 C++对象模型和this指针</Filter>
+    </ClCompile>
+    <ClCompile Include="01 全局函数做友元.cpp">
+      <Filter>源文件\04 友元</Filter>
+    </ClCompile>
+    <ClCompile Include="02 类做友元.cpp">
+      <Filter>源文件\04 友元</Filter>
+    </ClCompile>
+    <ClCompile Include="03 成员函数做友元.cpp">
+      <Filter>源文件\04 友元</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
