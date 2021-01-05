@@ -25,6 +25,9 @@
     <Filter Include="源文件\04 友元">
       <UniqueIdentifier>{a1e54a2d-a459-4dbd-82f7-1e23c99d9a9e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\05 运算符重载">
+      <UniqueIdentifier>{3290b5b5-90ba-49a0-a4d9-210bbfe86d84}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02 StudentDemo.cpp">
@@ -83,6 +86,24 @@
     </ClCompile>
     <ClCompile Include="03 成员函数做友元.cpp">
       <Filter>源文件\04 友元</Filter>
+    </ClCompile>
+    <ClCompile Include="01 加号运算符重载.cpp">
+      <Filter>源文件\05 运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="02 左移运算符重载.cpp">
+      <Filter>源文件\05 运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="03 递增运算符重载.cpp">
+      <Filter>源文件\05 运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="04 赋值运算符重载.cpp">
+      <Filter>源文件\05 运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="05 关系运算符重载.cpp">
+      <Filter>源文件\05 运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="06 函数调用运算符重载.cpp">
+      <Filter>源文件\05 运算符重载</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

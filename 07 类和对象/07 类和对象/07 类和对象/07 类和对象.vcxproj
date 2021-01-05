@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="01 CircleDemo.cpp" />
     <ClCompile Include="01 全局函数做友元.cpp" />
+    <ClCompile Include="01 加号运算符重载.cpp" />
     <ClCompile Include="01 成员变量和成员函数分开存储.cpp" />
     <ClCompile Include="01 构造函数和析构函数.cpp" />
     <ClCompile Include="02 this指针概念.cpp" />
+    <ClCompile Include="02 左移运算符重载.cpp" />
     <ClCompile Include="02 构造函数的分类及调用.cpp" />
     <ClCompile Include="02 类做友元.cpp" />
     <ClCompile Include="03 struct和class区别.cpp" />
@@ -151,10 +153,14 @@
     <ClCompile Include="03 成员函数做友元.cpp" />
     <ClCompile Include="03 拷贝构造函数调用时机.cpp" />
     <ClCompile Include="03 空指针访问成员函数.cpp" />
+    <ClCompile Include="03 递增运算符重载.cpp" />
     <ClCompile Include="04 const修饰成员函数.cpp" />
     <ClCompile Include="04 成员属性设置为私有.cpp" />
     <ClCompile Include="04 构造函数调用规则.cpp" />
+    <ClCompile Include="04 赋值运算符重载.cpp" />
+    <ClCompile Include="05 关系运算符重载.cpp" />
     <ClCompile Include="05 深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="06 函数调用运算符重载.cpp" />
     <ClCompile Include="06 初始化列表.cpp" />
     <ClCompile Include="07 类对象作为类成员.cpp" />
     <ClCompile Include="08 静态成员变量.cpp" />

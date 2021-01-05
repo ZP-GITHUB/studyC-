@@ -1,2 +1,11 @@
-﻿  02 类做友元.cpp
-  07 类和对象.vcxproj -> F:\大学\C++\studyCpp\07 类和对象\07 类和对象\Debug\07 类和对象.exe
+﻿  01 全局函数做友元.cpp
+  01 加号运算符重载.cpp
+  02 类做友元.cpp
+  03 成员函数做友元.cpp
+  正在生成代码...
+02 类做友元.obj : error LNK2005: "public: __thiscall Building::Building(void)" (??0Building@@QAE@XZ) 已经在 01 全局函数做友元.obj 中定义
+03 成员函数做友元.obj : error LNK2005: "public: __thiscall Building::Building(void)" (??0Building@@QAE@XZ) 已经在 01 全局函数做友元.obj 中定义
+03 成员函数做友元.obj : error LNK2005: "public: __thiscall goodGay::goodGay(void)" (??0goodGay@@QAE@XZ) 已经在 02 类做友元.obj 中定义
+03 成员函数做友元.obj : error LNK2005: "public: void __thiscall goodGay::visit(void)" (?visit@goodGay@@QAEXXZ) 已经在 02 类做友元.obj 中定义
+03 成员函数做友元.obj : error LNK2005: _main 已经在 01 加号运算符重载.obj 中定义
+F:\大学\C++\studyCpp\07 类和对象\07 类和对象\Debug\07 类和对象.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
