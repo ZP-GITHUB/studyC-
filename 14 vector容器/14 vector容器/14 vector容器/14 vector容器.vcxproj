@@ -146,6 +146,9 @@
     <ClCompile Include="05 vector数据存取.cpp" />
     <ClCompile Include="06 vector互换容器.cpp" />
     <ClCompile Include="07 vector预留空间.cpp" />
+    <ClCompile Include="08 vector存放内置数据类型.cpp" />
+    <ClCompile Include="09 Vector存放自定义数据类型.cpp" />
+    <ClCompile Include="10 Vector容器嵌套容器.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

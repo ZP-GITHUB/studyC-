@@ -23,7 +23,7 @@ void test08()
 	cout << "num:" << num << endl;
 }
 
-int main() {
+int main1407() {
 
 	test08();
 

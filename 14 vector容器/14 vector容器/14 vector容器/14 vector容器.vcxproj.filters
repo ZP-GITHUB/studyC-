@@ -36,5 +36,14 @@
     <ClCompile Include="07 vector预留空间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08 vector存放内置数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 Vector存放自定义数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10 Vector容器嵌套容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
