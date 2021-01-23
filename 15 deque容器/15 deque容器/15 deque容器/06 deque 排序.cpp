@@ -20,7 +20,7 @@ void test08()
 
 }
 
-int main() {
+int main1506() {
 
 	test08();
 
