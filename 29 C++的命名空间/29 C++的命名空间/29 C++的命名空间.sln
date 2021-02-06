@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29 C++的命名空间", "29 C++的命名空间\29 C++的命名空间.vcxproj", "{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Debug|x64.ActiveCfg = Debug|x64
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Debug|x64.Build.0 = Debug|x64
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Debug|x86.Build.0 = Debug|Win32
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Release|x64.ActiveCfg = Release|x64
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Release|x64.Build.0 = Release|x64
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Release|x86.ActiveCfg = Release|Win32
+		{1BC7EAAC-528E-4126-A3E8-8A36EC9B19F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B362F4C5-4578-4970-A5D5-86A55541BCB2}
+	EndGlobalSection
+EndGlobal
