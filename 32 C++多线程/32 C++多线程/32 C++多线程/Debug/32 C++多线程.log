@@ -1,0 +1,5 @@
+﻿  01 终止线程.cpp
+  02 向线程传递参数.cpp
+  正在生成代码...
+02 向线程传递参数.obj : error LNK2005: "void * __cdecl PrintHello(void *)" (?PrintHello@@YAPAXPAX@Z) 已经在 01 终止线程.obj 中定义
+F:\大学\C++\studyCpp\32 C++多线程\32 C++多线程\Debug\32 C++多线程.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

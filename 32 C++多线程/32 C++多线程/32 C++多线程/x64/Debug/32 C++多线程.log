@@ -1,0 +1,7 @@
+﻿  01 终止线程.cpp
+  test.cpp
+  正在生成代码...
+01 终止线程.obj : error LNK2019: 无法解析的外部符号 __imp_pthread_create，函数 main 中引用了该符号
+01 终止线程.obj : error LNK2019: 无法解析的外部符号 __imp_pthread_exit，函数 "void * __cdecl PrintHello(void *)" (?PrintHello@@YAPEAXPEAX@Z) 中引用了该符号
+pthreadVC2.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\大学\C++\studyCpp\32 C++多线程\32 C++多线程\x64\Debug\32 C++多线程.exe : fatal error LNK1120: 2 个无法解析的外部命令
